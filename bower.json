@@ -1,0 +1,20 @@
+{
+  "name": "20160905_pm",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Phoeon <598731376@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Phoeon/phoeon_qf_jiaoan",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Swiper": "swiper#^3.3.1"
+  }
+}
